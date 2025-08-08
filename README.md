@@ -43,3 +43,5 @@ Aplicación web que permite a los usuarios ingresar una cantidad de nombres de a
 ## 👨‍💻Autor
 
 **Axel Edwin Serrano Ruiz**
+| ![Imagen](https://github.com/user-attachments/assets/b056c417-64ea-47ef-a64e-144917396f74) |
+| :---: |
